@@ -1,4 +1,6 @@
+#initializing values
 a=10
 b=10
 c=a+b
-ptint(c)
+#printing the result
+print(c)
